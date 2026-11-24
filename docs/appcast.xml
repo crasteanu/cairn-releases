@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Cairn Updates</title>
+    <link>https://crasteanu.github.io/cairn-releases/</link>
+    <description>Signed release updates for Cairn on macOS.</description>
+    <language>en</language>
+    <item>
+      <title>Cairn 1.0.0</title>
+      <description>Initial public 1.0.0 release: universal macOS 14+ binary, Apple Developer ID signed &amp; notarized, Polar.sh Pro licensing, 14-day trial, Smart Clean, Developer &amp; AI Cleaners, App Uninstaller &amp; Reset, Duplicates &amp; Similar Photos, Protection &amp; Browser Privacy, App Updater, and Menu Bar Telemetry.</description>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/crasteanu/cairn-releases/releases/download/v1.0.0/Cairn-1.0.0-universal.dmg"
+                 sparkle:os="macos"
+                 sparkle:edSignature="XTWKsT1Qz8SrhjkzgIjpeno/y5mzi22bKPXFrBsu6ubKiNjr6nIVIpi/WiAnLuWPoZRH/NlAKu7/nlaK1oorAg==" />
+    </item>
+  </channel>
+</rss>
